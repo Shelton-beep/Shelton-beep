@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shelton-beep
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning angular 
-- 💞️ I’m looking to collaborate on various projects making use of javascript and angular framework
+- I'm a MEAN STACK Developer and a front end speacialist
+- 💞️ I’m looking to collaborate on various projects making use of nodeJS for backend and angular framework for frontend
 - 📫 You can reach me on my email account shltnsimbi@gmail.com
 
 <!---
