@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Shelton-beep
-- I'm a MEAN STACK Developer and a front end speacialist
-- 💞️ I’m looking to collaborate on various projects making use of nodeJS for backend and angular framework for frontend
+- 👋 Hi, I’m Shelton Nyasha Simbi
+- I'm a FULL STACK Developer
+- My technology stack includes c# with Asp .Net Core Framework for backend and javascript with Vue and Angular Frameworks for frontend.
+- I also have skills with Blazor WebAssembly, SQL, Firebase, tailwind css framework, bootstrap, quasar framework
+- I have more than 3 years programming experience with 2years spent at the Judicial Service Commission where i was an angular frontend Developer.
+- I'm currently working at NSSA as a Asp Web Api backend developer
+- I'm also a freelancer implementing the above mentioned technology stack
+- 💞️ I’m looking to collaborate on various projects making use of Asp .Net Web Api and Vue or angular framework for frontend
 - 📫 You can reach me on my email account shltnsimbi@gmail.com
 
 <!---
