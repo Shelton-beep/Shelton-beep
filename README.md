@@ -4,5 +4,5 @@
 - I also have skills with Blazor WebAssembly, SQL, Firebase, tailwind css framework, bootstrap
 - I have more than 3 years programming experience.
 - I'm also a freelancer implementing the above mentioned technology stack
-- 💞️ I’m looking to collaborate on various projects making use of Asp .Net Web Api, Nextjs and React
+- 💞️ I’m looking to collaborate on various projects making use of Asp .Net Core Web Api, Nextjs and React
 - 📫 You can reach me on my email account shltnsimbi@gmail.com or website https://shelton-simbi.netlify.app/
