@@ -23,12 +23,11 @@ I'm passionate about applying machine learning and data analytics in meaningful 
 
  📈 GitHub Stats
 
-![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep&show_icons=true&theme=radical)
 
  📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Portfolio](https://yourportfolio.com)
-- [Twitter](https://twitter.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/shelton-simbi-750155204)
+Email: shltnsimbi@gmail.com
 
 Thank you for stopping by! I'm always open to collaboration, learning new skills, and connecting with others in the tech community.
