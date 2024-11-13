@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm a passionate Data Scientist and Software Developer ded
 
  🌱 What I'm Working On
 
-- [LearnIt MVP](https://github.com/Shelton-beep/learnit): A comprehensive learning management system with document processing, tutorials, and question generation per student module.
-- [Sermon Player](https://github.com/Shelton-beep/sermon-player): An online platform for streaming sermons, Q&A interactions, and user subscriptions.
-- [Inspection Report System](https://github.com/Shelton-beep/inspection-report): A report generation tool for financial inspections, including pre- and post-conversion metrics.
-- [Job Portal for NSSA](https://github.com/Shelton-beep/job-portal): A job posting and applicant ranking system for the National Social Security Authority (NSSA).
+- [LearnIt MVP]: A comprehensive learning management system with document processing, tutorials, and question generation per student module.
+- [Sermon Player]: An online platform for streaming sermons, Q&A interactions, and user subscriptions.
+- [Inspection Report System]: A report generation tool for financial inspections, including pre- and post-conversion metrics.
+- [Job Portal for NSSA]: A job posting and applicant ranking system for the National Social Security Authority (NSSA).
 
  💡 Interests
 
