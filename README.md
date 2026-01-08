@@ -1,35 +1,99 @@
- 👋 Hi, I'm Shelton!
+# 👋 Hi, I'm Shelton!
 
-Welcome to my GitHub! I'm a passionate Data Scientist and Software Developer dedicated to solving complex problems with data-driven insights and building applications that create real-world impact. My projects showcase my skills in data analysis, machine learning, web development, and software engineering.
+Welcome to my GitHub! I'm a **Machine Learning & LLM Engineer** focused on building **production-grade AI systems** that combine machine learning, large language models, and modern software engineering. I specialize in turning research ideas into **scalable, real-world AI applications**.
 
- 🛠️ Skills
+My work spans **LLMs, Retrieval-Augmented Generation (RAG), predictive modeling, and full-stack AI systems**.
 
-- Languages: Python, JavaScript, TypeScript, SQL, C#, HTML, CSS
-- Data Science & Machine Learning: pandas, NumPy, scikit-learn, TensorFlow, PyTorch, SQL
-- Data Visualization: Power BI, Tableua
-- Software Development: Next.js, React, ASP.NET, 
-- Databases: MySQL, PostgreSQL, MongoDB, Microsoft SQL Server
-- Cloud & Tools: Git, Docker, AWS, Azure, Jupyter Notebook, VS Code
+---
 
- 🌱 What I'm Working On
+## 🧠 Core Expertise
 
-- [LearnIt MVP]: A comprehensive learning management system with document processing, tutorials, and question generation per student module.
-- [Sermon Player]: An online platform for streaming sermons, Q&A interactions, and user subscriptions.
-- [Inspection Report System]: A report generation tool for financial inspections, including pre- and post-conversion metrics.
-- [Job Portal for NSSA]: A job posting and applicant ranking system for the National Social Security Authority (NSSA).
+### 🤖 Machine Learning & LLMs
 
- 💡 Interests
+* Large Language Models (LLMs), prompt engineering, and system design
+* Retrieval-Augmented Generation (RAG) pipelines
+* Supervised learning, feature engineering, and model evaluation
+* NLP, embeddings, semantic search, and document intelligence
+* Model deployment and inference optimization
 
-I'm passionate about applying machine learning and data analytics in meaningful ways and exploring innovative projects like algorithmic trading, AI-powered learning systems, and personalized content applications. I'm currently focused on deepening my expertise in data visualization, cloud-based architectures, and recommendation engines.
+### 🧪 ML & AI Tooling
 
- 📈 GitHub Stats
+* pandas, NumPy, scikit-learn
+* TensorFlow, PyTorch
+* OpenAI APIs, embeddings, LLM orchestration
+* Experimentation, evaluation, and iteration
 
-![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep&show_icons=true&theme=radical)
+---
 
- 📫 Connect With Me
+## 🛠️ Technical Stack
 
-[LinkedIn](https://www.linkedin.com/in/shelton-simbi-750155204)
+### 💻 Languages
 
-Email: shltnsimbi@gmail.com
+* Python, JavaScript, TypeScript, SQL, C#, HTML, CSS
 
-Thank you for stopping by! I'm always open to collaboration, learning new skills, and connecting with others in the tech community.
+### 🌐 ML Systems & Backend
+
+* FastAPI, REST APIs, background workers
+* AI service orchestration and data pipelines
+
+### 🎨 Frontend (AI Interfaces)
+
+* Next.js, React
+* Interactive AI chat and visualization interfaces
+
+### 🗄️ Databases & Storage
+
+* PostgreSQL, MySQL, MongoDB, Microsoft SQL Server
+* Vector databases and embedding storage
+
+### ☁️ Cloud & DevOps
+
+* AWS, Azure
+* Docker, Git
+* Jupyter Notebook, VS Code
+
+---
+
+## 🚀 Selected Projects
+
+* **Nash Paint AI**
+  LLM-powered paint consultation system using RAG and computer vision for product recommendations, color extraction from images, and virtual repaint visualization.
+
+* **NSSA AI Agent**
+  Intelligent AI agent for automated reporting, insights generation, and decision support within a pension fund environment.
+
+* **Legal Case Outcome Prediction System**
+  ML-driven legal analytics platform using NLP models to predict appeal outcomes and generate legal briefs.
+
+* **LearnIt MVP**
+  AI-powered learning platform with document ingestion, semantic search, and automated question generation.
+
+---
+
+## 💡 Research & Engineering Interests
+
+* LLM system design & evaluation
+* Retrieval-Augmented Generation (RAG) architectures
+* AI agents and autonomous workflows
+* Applied NLP and document intelligence
+* Scalable ML deployment and MLOps
+
+I’m particularly interested in **bridging ML research with production systems**—building AI that is reliable, explainable, and useful.
+
+---
+
+## 📈 GitHub Stats
+
+![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/shelton-simbi-750155204/](https://www.linkedin.com/in/shelton-simbi-750155204/)
+* **Email:** [shltnsimbi@gmail.com](mailto:shltnsimbi@gmail.com)
+
+---
+
+Thanks for stopping by!
+I’m always open to **collaborating on ML/LLM systems**, **research-driven engineering**, and **impactful AI products** 🚀
