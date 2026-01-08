@@ -96,4 +96,4 @@ I’m particularly interested in **bridging ML research with production systems*
 ---
 
 Thanks for stopping by!
-I’m always open to **collaborating on ML/LLM systems**, **research-driven engineering**, and **impactful AI products** 🚀
+I’m always open to **collaborating on ML/LLM systems**, **research-driven engineering**, and **impactful AI products** 
