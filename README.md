@@ -84,7 +84,7 @@ I’m particularly interested in **bridging ML research with production systems*
 
 ## GitHub Stats
 
-![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep\&show_icons=true\&theme=radical)
+![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep&show_icons=true&theme=dark&cache_seconds=86400)
 
 ---
 
