@@ -1,99 +1,80 @@
-# Hi, I'm Shelton!
+> **Hi, I'm Shelton Simbi**
+> GenAI Engineer · LLM Systems Architect · Data Scientist · Based in New York
 
-Welcome to my GitHub! I'm a **Machine Learning & LLM Engineer** focused on building **production-grade AI systems** that combine machine learning, large language models, and modern software engineering. I specialize in turning research ideas into **scalable, real-world AI applications**.
+Most AI systems look great in a notebook. I build the ones that hold up in production.
 
-My work spans **LLMs, Retrieval-Augmented Generation (RAG), predictive modeling, and full-stack AI systems**.
+I specialize in agentic AI, RAG pipelines, and LLM engineering — designing systems that combine large language models, vector retrieval, and multi-agent orchestration into applications that deliver real business value. I also teach these systems at graduate level at Yeshiva University, where I help engineers go from LLM basics to production deployments.
 
----
-
-## Core Expertise
-
-### Machine Learning & LLMs
-
-* Large Language Models (LLMs), prompt engineering, and system design
-* Retrieval-Augmented Generation (RAG) pipelines
-* Supervised learning, feature engineering, and model evaluation
-* NLP, embeddings, semantic search, and document intelligence
-* Model deployment and inference optimization
-
-### ML & AI Tooling
-
-* pandas, NumPy, scikit-learn
-* TensorFlow, PyTorch
-* OpenAI APIs, embeddings, LLM orchestration
-* Experimentation, evaluation, and iteration
+**What I build:**
+- Agentic AI systems using LangGraph, CrewAI, and MCP (Model Context Protocol)
+- RAG pipelines — hybrid, corrective, and graph-based — that scale beyond demos
+- LLM powered applications evaluated with LangSmith and Ragas
+- End-to-end ML systems from training through monitored production APIs
 
 ---
 
-## Technical Stack
+**Core Stack**
 
-### Languages
+**GenAI & Agentic AI**
+> LLMs, RAG, Graph RAG, Hybrid RAG, Agentic AI, Multi Agent Systems, LangChain, LangGraph, LlamaIndex, CrewAI, MCP, Prompt Engineering, Context Engineering, Fine-Tuning, Embeddings, Semantic Retrieval
 
-* Python, JavaScript, TypeScript, SQL, C#, HTML, CSS
+**Evaluation & Safety**
+> LangSmith, Ragas, DeepEval, Guardrails AI
 
-### ML Systems & Backend
+**Vector Databases**
+> Pinecone, Weaviate, pgvector, Neo4j
 
-* FastAPI, REST APIs, background workers
-* AI service orchestration and data pipelines
+**Machine Learning**
+> Scikit-learn, TensorFlow, PyTorch, Anomaly Detection, Predictive Modeling, NLP, Time Series Forecasting
 
-### Frontend (AI Interfaces)
+**Languages**
+> Python, TypeScript, SQL
 
-* Next.js, React
-* Interactive AI chat and visualization interfaces
+**Backend & MLOps**
+> FastAPI, Flask, Docker, vLLM, MLflow, REST APIs, CI/CD
 
-### Databases & Storage
+**Cloud & Infrastructure**
+> AWS (Bedrock, SageMaker, EC2, S3), Azure, Vercel
 
-* PostgreSQL, MySQL, MongoDB, Microsoft SQL Server
-* Vector databases and embedding storage
+**Databases**
+> PostgreSQL, MySQL, MongoDB, Snowflake, Apache Spark, Microsoft SQL Server
 
-### Cloud & DevOps
-
-* AWS, Azure
-* Docker, Git
-* Jupyter Notebook, VS Code
-
----
-
-## Selected Projects
-
-* **Nash Paint AI**
-  LLM-powered paint consultation system using RAG and computer vision for product recommendations, color extraction from images, and virtual repaint visualization.
-
-* **NSSA AI Agent**
-  Intelligent AI agent for automated reporting, insights generation, and decision support within a pension fund environment.
-
-* **Legal Case Outcome Prediction System**
-  ML-driven legal analytics platform using NLP models to predict appeal outcomes and generate legal briefs.
-
-* **LearnIt MVP**
-  AI-powered learning platform with document ingestion, semantic search, and automated question generation.
+**Frontend**
+> Next.js, React, Streamlit
 
 ---
 
-## Research & Engineering Interests
+**Selected Projects**
 
-* LLM system design & evaluation
-* Retrieval-Augmented Generation (RAG) architectures
-* AI agents and autonomous workflows
-* Applied NLP and document intelligence
-* Scalable ML deployment and MLOps
+**ExamPrep — AI Exam Preparation Platform**
+Turn course materials into graded practice. Ingests PDF, DOCX, and TXT files, generates MCQ, short answer, and scenario questions with semantic deduplication, runs timed exams, and delivers rubric-aware feedback.
+Stack: LLMs, FastAPI, Next.js, PostgreSQL, Docker
 
-I’m particularly interested in **bridging ML research with production systems**—building AI that is reliable, explainable, and useful.
+**Nash Paint — AI Powered Paint Consultation System**
+RAG powered assistant delivering intelligent product recommendations, image-based color extraction, virtual repaint visualization, branch lookup, and customer support.
+Stack: LLMs, RAG, Embeddings, FastAPI, Computer Vision
 
----
+**NSSA AI Powered Business Intelligence Platform**
+Natural language to SQL querying over enterprise pension fund databases with LLM-based reasoning, automated reporting, and intelligent dashboards.
+Stack: LangChain, RAG, FastAPI, PostgreSQL, Streamlit
 
-## GitHub Stats
-
-![Shelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelton-beep&show_icons=true&theme=dark&cache_seconds=86400)
-
----
-
-## Connect With Me
-
-* **LinkedIn:** [https://www.linkedin.com/in/shelton-simbi-750155204/](https://www.linkedin.com/in/shelton-simbi-750155204/)
-* **Email:** [shltnsimbi@gmail.com](mailto:shltnsimbi@gmail.com)
+**AI Legal Analytics — Law Capstone**
+Predicts appeal outcomes using a model trained on 18,500+ cases. Hybrid retrieval with LegalBERT and BM25 rank fusion surfaces relevant precedents. Generates structured appellate briefs grounded in winning cases.
+Stack: LegalBERT, MLP Classifier, FastAPI, Next.js 14
 
 ---
 
-Thanks for stopping by!
-I’m always open to **collaborating on ML/LLM systems**, **research-driven engineering**, and **impactful AI products** 
+**Achievements**
+- 47% improvement in fraud detection accuracy at NSSA
+- 60% reduction in data pipeline processing time
+- 35% reduction in operational forecasting errors at JSC
+- Neo4j Fundamentals Certified — April 2026
+
+---
+
+**Connect**
+- Portfolio: https://personal-portfolio-steel-phi-27.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/shelton-simbi-750155204/
+- Email: ssimbi@mail.yu.edu
+
+---
