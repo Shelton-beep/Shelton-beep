@@ -3,11 +3,11 @@
 
 Most AI systems look great in a notebook. I build the ones that hold up in production.
 
-I specialize in agentic AI, RAG pipelines, and LLM engineering — designing systems that combine large language models, vector retrieval, and multi-agent orchestration into applications that deliver real business value. I also teach these systems at graduate level at Yeshiva University, where I help engineers go from LLM basics to production deployments.
+I specialize in agentic AI, RAG pipelines, and LLM engineering, designing systems that combine large language models, vector retrieval, and multi-agent orchestration into applications that deliver real business value. I also teach these systems at graduate level at Yeshiva University, where I help engineers go from LLM basics to production deployments.
 
 **What I build:**
 - Agentic AI systems using LangGraph, CrewAI, and MCP (Model Context Protocol)
-- RAG pipelines — hybrid, corrective, and graph-based — that scale beyond demos
+- RAG pipelines (hybrid, corrective, and graph-based) that scale beyond demos
 - LLM powered applications evaluated with LangSmith and Ragas
 - End-to-end ML systems from training through monitored production APIs
 
